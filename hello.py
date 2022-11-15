@@ -11,3 +11,7 @@ def multi(a,b):
 
 def linux(a,b):
     return "Linux"
+
+
+def linux2(a,b):
+    return "Linux2"
