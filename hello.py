@@ -11,3 +11,6 @@ def multi(a,b):
 
 def windows(a,b):
     return "WINDOWS"
+
+def windows1(a,b):
+    return "WINDOWS1"
