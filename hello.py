@@ -9,6 +9,13 @@ def summ(a,b):
 def multi(a,b):
     return a*b
 
+def linux(a,b):
+    return "Linux"
+
+
+def linux2(a,b):
+    return "Linux2"
+
 def windows(a,b):
     return "WINDOWS"
 
