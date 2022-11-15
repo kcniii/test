@@ -1,3 +1,6 @@
 print("hello world")
 print("fuck off")
 print("I am the lucky boy")
+
+def summ(a,b):
+    return a+b
