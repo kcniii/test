@@ -8,3 +8,6 @@ def summ(a,b):
 
 def multi(a,b):
     return a*b
+
+def windows(a,b):
+    return "WINDOWS"
